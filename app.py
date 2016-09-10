@@ -35,7 +35,7 @@ def makeWebhookResult(req):
     print("Response:")
     print(speech)
 
-    telegram_message = {"text": "This text was sent in the data field."}
+    telegram_message = {"text": "This text *was* sent in the `data` field.","parse_mode":"Markdown"}
 
     print(json.dumps(telegram_message))
 
