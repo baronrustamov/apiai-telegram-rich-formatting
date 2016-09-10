@@ -1,6 +1,6 @@
 {
-  "name": "API.AI Kik Images",
-  "description": "API.AI Kik Send Images Sample",
+  "name": "API.AI Telegram Text",
+  "description": "API.AI Telegram Text Sample",
   "repository": "https://github.com/svet4/apiai-kik-images",
   "logo": "http://xvir.github.io/img/apiai.png",
   "keywords": ["api.ai", "natural language"]
